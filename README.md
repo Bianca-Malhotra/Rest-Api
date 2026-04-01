@@ -85,6 +85,21 @@ http://localhost:8080/api/students
 
 ---
 
+## IMPLEMENTATION
+
+<img width="1539" height="445" alt="Screenshot 2026-03-31 123951" src="https://github.com/user-attachments/assets/9601d199-de9d-427a-a71d-9b124a0118a7" />
+
+## API CALLS (POSTMAN)
+
+<img width="1074" height="959" alt="Screenshot 2026-03-31 123933" src="https://github.com/user-attachments/assets/e78866b1-dcaf-48a3-93e8-b8a35dbeb458" />
+
+<img width="1070" height="914" alt="Screenshot 2026-03-31 123904" src="https://github.com/user-attachments/assets/331ea318-bf83-4f64-aeba-e0149dfbc9e2" />
+
+<img width="1097" height="994" alt="Screenshot 2026-03-31 123848" src="https://github.com/user-attachments/assets/9de6f165-b772-4704-a1ab-b5840638d162" />
+
+<img width="1104" height="941" alt="Screenshot 2026-03-31 123825" src="https://github.com/user-attachments/assets/37a895c2-7676-4ee4-b9e0-cc712654ba79" />
+
+
 ## 📂 Build
 
 To build the project:
